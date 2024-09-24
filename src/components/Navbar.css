@@ -1,0 +1,6 @@
+.nav-link.active {
+  color: #eaa80e !important; /* Customize active color */
+  text-decoration: underline;
+  transition: 0.5s ease-out;
+  transform: rotate(360deg);
+}
